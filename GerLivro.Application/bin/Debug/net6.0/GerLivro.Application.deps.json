@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "GerLivro.Application/1.0.0": {
+        "dependencies": {
+          "GerLivro.Domain": "1.0.0"
+        },
+        "runtime": {
+          "GerLivro.Application.dll": {}
+        }
+      },
+      "GerLivro.Domain/1.0.0": {
+        "runtime": {
+          "GerLivro.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GerLivro.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GerLivro.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

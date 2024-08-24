@@ -1,0 +1,16 @@
+C:\GIT\GerenciamentoDeLivros\GerLivro.Application\bin\Debug\net6.0\GerLivro.Application.deps.json
+C:\GIT\GerenciamentoDeLivros\GerLivro.Application\bin\Debug\net6.0\GerLivro.Application.dll
+C:\GIT\GerenciamentoDeLivros\GerLivro.Application\bin\Debug\net6.0\GerLivro.Application.pdb
+C:\GIT\GerenciamentoDeLivros\GerLivro.Application\bin\Debug\net6.0\GerLivro.Domain.dll
+C:\GIT\GerenciamentoDeLivros\GerLivro.Application\bin\Debug\net6.0\GerLivro.Domain.pdb
+C:\GIT\GerenciamentoDeLivros\GerLivro.Application\obj\Debug\net6.0\GerLivro.Application.csproj.AssemblyReference.cache
+C:\GIT\GerenciamentoDeLivros\GerLivro.Application\obj\Debug\net6.0\GerLivro.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\GerenciamentoDeLivros\GerLivro.Application\obj\Debug\net6.0\GerLivro.Application.AssemblyInfoInputs.cache
+C:\GIT\GerenciamentoDeLivros\GerLivro.Application\obj\Debug\net6.0\GerLivro.Application.AssemblyInfo.cs
+C:\GIT\GerenciamentoDeLivros\GerLivro.Application\obj\Debug\net6.0\GerLivro.Application.csproj.CoreCompileInputs.cache
+C:\GIT\GerenciamentoDeLivros\GerLivro.Application\obj\Debug\net6.0\GerLivro.Application.sourcelink.json
+C:\GIT\GerenciamentoDeLivros\GerLivro.Application\obj\Debug\net6.0\GerLivro.EDA0DE79.Up2Date
+C:\GIT\GerenciamentoDeLivros\GerLivro.Application\obj\Debug\net6.0\GerLivro.Application.dll
+C:\GIT\GerenciamentoDeLivros\GerLivro.Application\obj\Debug\net6.0\refint\GerLivro.Application.dll
+C:\GIT\GerenciamentoDeLivros\GerLivro.Application\obj\Debug\net6.0\GerLivro.Application.pdb
+C:\GIT\GerenciamentoDeLivros\GerLivro.Application\obj\Debug\net6.0\ref\GerLivro.Application.dll
