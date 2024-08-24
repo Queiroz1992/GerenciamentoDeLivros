@@ -31,3 +31,15 @@ C:\GIT\GerenciamentoDeLivros\GerLivro.API\obj\Debug\net6.0\refint\GerLivro.API.d
 C:\GIT\GerenciamentoDeLivros\GerLivro.API\obj\Debug\net6.0\GerLivro.API.pdb
 C:\GIT\GerenciamentoDeLivros\GerLivro.API\obj\Debug\net6.0\GerLivro.API.genruntimeconfig.cache
 C:\GIT\GerenciamentoDeLivros\GerLivro.API\obj\Debug\net6.0\ref\GerLivro.API.dll
+C:\GIT\GerenciamentoDeLivros\GerLivro.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\GIT\GerenciamentoDeLivros\GerLivro.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\GIT\GerenciamentoDeLivros\GerLivro.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\GIT\GerenciamentoDeLivros\GerLivro.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\GIT\GerenciamentoDeLivros\GerLivro.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\GIT\GerenciamentoDeLivros\GerLivro.API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\GIT\GerenciamentoDeLivros\GerLivro.API\bin\Debug\net6.0\GerLivro.Application.dll
+C:\GIT\GerenciamentoDeLivros\GerLivro.API\bin\Debug\net6.0\GerLivro.Domain.dll
+C:\GIT\GerenciamentoDeLivros\GerLivro.API\bin\Debug\net6.0\GerLivro.Infrastructure.dll
+C:\GIT\GerenciamentoDeLivros\GerLivro.API\bin\Debug\net6.0\GerLivro.Application.pdb
+C:\GIT\GerenciamentoDeLivros\GerLivro.API\bin\Debug\net6.0\GerLivro.Infrastructure.pdb
+C:\GIT\GerenciamentoDeLivros\GerLivro.API\bin\Debug\net6.0\GerLivro.Domain.pdb

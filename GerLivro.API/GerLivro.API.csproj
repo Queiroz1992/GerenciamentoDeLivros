@@ -12,6 +12,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\GerLivro.Application\GerLivro.Application.csproj" />
+    <ProjectReference Include="..\GerLivro.Infrastructure\GerLivro.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>
