@@ -47,7 +47,7 @@ namespace GerLivro.Application.Services
             };
         }
 
-        public async Task AddAsync(CreateLivroDTO createLivroDTO)
+        public async Task<int> AddAsync(CreateLivroDTO createLivroDTO)
         {
             var livro = new Livro
             {
@@ -58,6 +58,7 @@ namespace GerLivro.Application.Services
             };
 
             await _livroRepository.AddAsync(livro);
+            return livro.Id;
         }
 
         public async Task UpdateAsync(LivroDTO livroDTO)

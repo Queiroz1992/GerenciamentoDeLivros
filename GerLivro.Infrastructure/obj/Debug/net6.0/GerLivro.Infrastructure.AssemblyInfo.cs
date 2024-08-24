@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GerLivro.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e1004366921402d638ed02ec3b68fc79cd9618a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d9d99defcae1816d9865f1739f27cae33e675686")]
 [assembly: System.Reflection.AssemblyProductAttribute("GerLivro.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GerLivro.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -25,10 +25,8 @@ namespace GerLivro.Infrastructure.Repositories
         public async Task<Livro> GetByIdAsync(int id)
         {
             var livro = await _context.Livros.FindAsync(id);
-            if (livro == null)
-            {
-                throw new Exception($"Livro com id {id} não encontrado");
-            }
+            if (livro == null) throw new Exception($"Livro com id {id} não encontrado");
+
             return livro;
         }
         public async Task<Livro> AddAsync(Livro livro)

@@ -88,6 +88,29 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
+      },
+      "GerLivro.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "GerLivro.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/GerLivro.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GerLivro.Application.dll": {}
+        }
+      },
+      "GerLivro.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/GerLivro.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GerLivro.Domain.dll": {}
+        }
       }
     }
   },
@@ -429,10 +452,21 @@
         "swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
+    },
+    "GerLivro.Application/1.0.0": {
+      "type": "project",
+      "path": "../GerLivro.Application/GerLivro.Application.csproj",
+      "msbuildProject": "../GerLivro.Application/GerLivro.Application.csproj"
+    },
+    "GerLivro.Domain/1.0.0": {
+      "type": "project",
+      "path": "../GerLivro.Domain/GerLivro.Domain.csproj",
+      "msbuildProject": "../GerLivro.Domain/GerLivro.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "GerLivro.Application >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.5.0"
     ]
   },
@@ -463,7 +497,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\GIT\\GerenciamentoDeLivros\\GerLivro.Application\\GerLivro.Application.csproj": {
+              "projectPath": "C:\\GIT\\GerenciamentoDeLivros\\GerLivro.Application\\GerLivro.Application.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
